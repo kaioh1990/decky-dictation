@@ -1,0 +1,11 @@
+{
+  "name": "Dictation",
+  "author": "kaioh1990",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["utility", "keyboard", "voice"],
+    "description": "Adds a microphone key to Steam's on-screen keyboard and a hotkey for offline voice dictation (Whisper).",
+    "image": ""
+  }
+}

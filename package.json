@@ -1,0 +1,7 @@
+{
+  "name": "decky-dictation",
+  "version": "0.1.2",
+  "description": "Offline voice dictation key for Steam's on-screen keyboard, plus a hotkey.",
+  "type": "module",
+  "license": "MIT"
+}
